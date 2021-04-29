@@ -11,7 +11,7 @@
   ⯀ Close-to-graduate student in Metropolia<br/>
   ⯀ Focusing on Data Analysis, AI/ML<br/>
   ⯀ Technical trainee working on a NLP project<br/>
-  ⯀ Love to discuss technologies, data science, especially building ethical AI/ML.  
+  ⯀ Love to discuss technologies, data science, especially building ethical AI/ML
 </p>
 
 <br/>
