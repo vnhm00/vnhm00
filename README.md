@@ -14,6 +14,6 @@
   ⯀ Love to discuss technologies, data science, especially building ethical AI/ML.  
 </p>
 
-<br/><br/>
+<br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=1d2028&height=60&text=💻%202014%20-%20now:%20Programming%20|%20The%20best%20is%20yet%20to%20come&fontSize=12&fontColor=A5A5A9)<br/><br/><br/><br/><br/>
