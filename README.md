@@ -6,11 +6,11 @@
   Hi there!
   <br/>
   Welcome to my/<a href="https://www.linkedin.com/in/vnhm00/">Mai</a>'s space 🚀<br/>
-  I spend my time mostly on Jupyter 🪐
+  I spend my time mostly on Jupyter (Notebook) 🪐
   <br /><br />
-  ⯀ Close-to-graduate student in Metropolia<br/>
+  ⯀ Learning new things at Tietoevery<br/>
+  ⯀ Bachelor's Degree in Information Technology<br/>
   ⯀ Focusing on Data Analysis, AI/ML<br/>
-  ⯀ Technical trainee working on a NLP project<br/>
   ⯀ Love to discuss technologies, data science, especially building ethical AI/ML
 </p>
 
